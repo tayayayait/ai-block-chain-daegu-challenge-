@@ -1,0 +1,342 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+/* Self-hosted OFL fonts. Wanted Sans display is split into KS X 1001 Hangul + Latin. */
+@font-face {
+  font-family: "Wanted Sans Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400 1000;
+  src: url("/fonts/wanted-sans/wanted-sans-variable-ksx1001.woff2") format("woff2-variations");
+  unicode-range: U+AC00-D7A3;
+}
+
+@font-face {
+  font-family: "Wanted Sans Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400 1000;
+  src: url("/fonts/wanted-sans/wanted-sans-variable-latin.woff2") format("woff2-variations");
+  unicode-range:
+    U+0000-024F, U+0259, U+1E00-1EFF, U+2000-209F, U+20A0-20CF, U+2122, U+2190-2199, U+2212, U+2215,
+    U+2605-2606, U+2661, U+2665, U+2669-266C, U+2C7C, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Pretendard Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 45 930;
+  src: url("/fonts/pretendard/pretendard-variable.woff2") format("woff2-variations");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("/fonts/jetbrains-mono/jetbrains-mono-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("/fonts/jetbrains-mono/jetbrains-mono-bold.woff2") format("woff2");
+}
+
+/*
+ * 온중(溫證) 디자인 시스템 — 등온(等溫)
+ * 하나의 토큰 체계, 두 개의 표면: Paper(라이트, 시민) / Shade(다크, 관제)
+ * 색은 장식이 아니라 데이터다. --heat-* 는 위험 등급 의미색이다.
+ */
+
+@theme inline {
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-raised: var(--raised);
+  --color-overlay: var(--overlay);
+  --color-border: var(--border);
+  --color-input: var(--border);
+  --color-fg-2: var(--fg-2);
+  --color-fg-3: var(--fg-3);
+
+  --color-card: var(--raised);
+  --color-card-foreground: var(--foreground);
+  --color-popover: var(--overlay);
+  --color-popover-foreground: var(--foreground);
+  --color-primary: var(--brand);
+  --color-primary-foreground: oklch(1 0 0);
+  --color-secondary: var(--raised);
+  --color-secondary-foreground: var(--foreground);
+  --color-muted: var(--raised);
+  --color-muted-foreground: var(--fg-2);
+  --color-accent: var(--raised);
+  --color-accent-foreground: var(--foreground);
+  --color-destructive: var(--danger);
+  --color-destructive-foreground: oklch(1 0 0);
+  --color-ring: var(--focus);
+
+  --color-heat-0: var(--heat-0);
+  --color-heat-1: var(--heat-1);
+  --color-heat-2: var(--heat-2);
+  --color-heat-3: var(--heat-3);
+  --color-heat-4: var(--heat-4);
+  --color-brand: var(--brand);
+  --color-brand-hover: var(--brand-hover);
+  --color-attest: var(--attest);
+  --color-attest-bg: var(--attest-bg);
+  --color-im-bank: var(--im-bank);
+  --color-danger: var(--danger);
+  --color-focus: var(--focus);
+
+  --font-display: var(--font-display-stack);
+  --font-body: var(--font-body-stack);
+  --font-mono: var(--font-mono-stack);
+
+  --shadow-sh-1: var(--sh-1);
+  --shadow-sh-2: var(--sh-2);
+  --shadow-sh-3: var(--sh-3);
+}
+
+:root {
+  /* 등온 스케일 (의미색) */
+  --heat-0: #0b6e6b;
+  --heat-1: #a67c00;
+  --heat-2: #d2601a;
+  --heat-3: #c0261b;
+  --heat-4: #e01b24;
+
+  /* 기능색 */
+  --brand: #0b6e6b;
+  --brand-hover: #095a57;
+  --brand-active: #074845;
+  --attest: #4338ca;
+  --attest-bg: #eef0fe;
+  --im-bank: #1b4b9e;
+  --danger: #e01b24;
+  --focus: #4dd4c8;
+  --shade-border: #26363d;
+  --paper-border: #d3dee1;
+
+  /* 간격 (4px 기반) */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 20px;
+  --sp-6: 24px;
+  --sp-8: 32px;
+  --sp-10: 40px;
+  --sp-12: 48px;
+  --sp-16: 64px;
+  --sp-20: 80px;
+
+  /* 레이어 */
+  --z-base: 0;
+  --z-sticky: 100;
+  --z-topbar: 200;
+  --z-dropdown: 300;
+  --z-overlay: 400;
+  --z-modal: 500;
+  --z-toast: 600;
+  --z-alert-l4: 700;
+
+  /* 안전 영역 */
+  --safe-area-left: max(var(--sp-4), env(safe-area-inset-left));
+  --safe-area-right: max(var(--sp-4), env(safe-area-inset-right));
+  --safe-area-bottom: max(var(--sp-4), env(safe-area-inset-bottom));
+
+  /* Paper 표면 (기본) */
+  --background: #f1f5f6;
+  --raised: #ffffff;
+  --overlay: #ffffff;
+  --border: var(--paper-border);
+  --foreground: #0d1418;
+  --fg-2: #4a5c63;
+  --fg-3: #7a8c93;
+
+  /* Paper 표면 전용 그림자 */
+  --sh-1: 0 1px 2px rgba(13, 20, 24, 0.06), 0 1px 3px rgba(13, 20, 24, 0.04);
+  --sh-2: 0 4px 8px rgba(13, 20, 24, 0.06), 0 2px 4px rgba(13, 20, 24, 0.04);
+  --sh-3: 0 12px 24px rgba(13, 20, 24, 0.1), 0 4px 8px rgba(13, 20, 24, 0.06);
+
+  --font-display-stack:
+    "Wanted Sans Variable", "Pretendard Variable", Pretendard, -apple-system, sans-serif;
+  --font-body-stack: "Pretendard Variable", Pretendard, -apple-system, "Malgun Gothic", sans-serif;
+  --font-mono-stack: "JetBrains Mono", "D2Coding", ui-monospace, monospace;
+
+  --body-size: 18px;
+  --tap-min: 48px;
+  --btn-h: 48px;
+  --icon-size: 20px;
+  --line-mult: 1.55;
+  --track: 0em;
+}
+
+/* Shade 표면 — 관제 (다크) */
+.shade {
+  --background: #0d1418;
+  --raised: #151f24;
+  --overlay: #1d2a30;
+  --border: var(--shade-border);
+  --foreground: #e8f0f2;
+  --fg-2: #9db2b9;
+  --fg-3: #6b838c;
+  --attest-bg: #1b1d3a;
+  --body-size: 16px;
+  --sh-1: none;
+  --sh-2: none;
+  --sh-3: none;
+}
+
+/* 시니어 모드 — Paper 표면 전용 */
+.senior {
+  --body-size: 22px;
+  --tap-min: 56px;
+  --btn-h: 60px;
+  --icon-size: 28px;
+  --line-mult: 1.7;
+  --track: 0.01em;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-body-stack);
+    font-size: var(--body-size);
+    line-height: var(--line-mult);
+    letter-spacing: var(--track);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+    border-radius: inherit;
+  }
+
+  :where(a, button, input, select, textarea, summary, [tabindex]:not([tabindex="-1"]), [id]) {
+    scroll-margin-top: var(--sp-20);
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display-stack);
+    text-wrap: balance;
+  }
+}
+
+@utility num {
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-mono-stack);
+}
+
+/* 타입 스케일 */
+@utility t-d1 {
+  font-family: var(--font-display-stack);
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+@utility t-h1 {
+  font-family: var(--font-display-stack);
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+@utility t-h2 {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+@utility t-h3 {
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+@utility t-body-s {
+  font-size: 14px;
+  line-height: 22px;
+}
+@utility t-caption {
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+@utility t-data-xl {
+  font-family: var(--font-mono-stack);
+  font-variant-numeric: tabular-nums;
+  font-size: 56px;
+  line-height: 56px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+@utility t-data-l {
+  font-family: var(--font-mono-stack);
+  font-variant-numeric: tabular-nums;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+@utility t-data-s {
+  font-family: var(--font-mono-stack);
+  font-variant-numeric: tabular-nums;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+/* L4 펄스 */
+@keyframes heat-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(224, 27, 36, 0.55);
+  }
+  50% {
+    box-shadow: 0 0 0 6px rgba(224, 27, 36, 0);
+  }
+}
+
+@utility pulse-l4 {
+  animation: heat-pulse 1800ms ease-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+.safe-x {
+  padding-left: var(--safe-area-left);
+  padding-right: var(--safe-area-right);
+}
+
+.safe-b {
+  padding-bottom: var(--safe-area-bottom);
+}

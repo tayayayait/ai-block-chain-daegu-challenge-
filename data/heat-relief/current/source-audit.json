@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "version": "daegu-heat-relief-20260824-b82815e8e166",
+  "nationalDaeguCount": 475,
+  "districtApiCount": 198,
+  "officialShadeCanopyCount": 680,
+  "districtCounts": {
+    "남구": 48,
+    "달서구": 43,
+    "달성군": 142,
+    "동구": 70,
+    "북구": 157,
+    "수성구": 128,
+    "중구": 92
+  },
+  "osmCounts": {
+    "BENCH": 117,
+    "PAVILION": 113
+  },
+  "parkFacilityApiCounts": {
+    "BENCH": 10623,
+    "PARK_FACILITY": 271,
+    "PAVILION": 1146
+  },
+  "parkFacilityApiCount": 12040,
+  "combinedRestSpotCount": 12950,
+  "replacementRule": "구·군 CSV가 존재하는 행정구역은 해당 최신 스냅샷 전체로 전국 표준데이터 행을 교체"
+}

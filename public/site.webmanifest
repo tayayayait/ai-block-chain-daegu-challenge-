@@ -1,0 +1,21 @@
+{
+  "name": "온중 溫證 — 대구 폭염 안전 안내",
+  "short_name": "온중 溫證",
+  "description": "대구 시민이 현재 더위와 가까운 쉼터를 확인하는 폭염 안전 서비스입니다.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f6",
+  "theme_color": "#0b6e6b",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

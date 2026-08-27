@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "auditedAt": "2026-08-26T07:32:00.000Z",
+  "dataset": "REST_SPOT",
+  "version": "daegu-heat-relief-20260824-c404d6768626",
+  "featureCount": 910,
+  "acceptedCount": 910,
+  "duplicateRate": 0.07142857142857142,
+  "issues": []
+}

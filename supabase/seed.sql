@@ -1,0 +1,4 @@
+-- This conventional Supabase seed is intentionally empty.
+-- Shared reset and remote migration flows must never create application data automatically.
+-- Local-only Demo data is kept outside db.seed.sql_paths and is applied only by the guarded
+-- npm run supabase:reset wrapper after loopback endpoint verification.

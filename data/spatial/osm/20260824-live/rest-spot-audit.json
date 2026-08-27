@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "auditedAt": "2026-08-24T15:00:49.008Z",
+  "dataset": "REST_SPOT",
+  "version": "osm-rest-spot-20260824T145921Z-d3f781b9f151",
+  "featureCount": 230,
+  "acceptedCount": 230,
+  "duplicateRate": 0,
+  "issues": []
+}

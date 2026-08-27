@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-24T15:00:55.365Z",
+  "relationId": 2395674,
+  "coverageRelationIds": [3891544, 3959027, 3966394, 3966426, 3969938, 3970414, 3972089, 3972253],
+  "licenseCode": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors, ODbL 1.0",
+  "sources": {
+    "BOUNDARY": {
+      "endpoint": "https://overpass-api.de/api/interpreter",
+      "fetchedAt": "2026-08-24T14:57:13.815Z",
+      "attempts": 1,
+      "osmBaseTimestamp": "2026-08-24T14:55:21Z",
+      "generator": "Overpass API 0.7.62.11 87bfad18",
+      "query": "[out:json][timeout:120][maxsize:16777216];\nrel(id:3891544,3959027,3966394,3966426,3969938,3970414,3972089,3972253)->.serviceDistricts;\n(\n  .serviceDistricts;\n  way(r.serviceDistricts:\"outer\");\n);\nout meta geom;",
+      "querySha256": "7cb55ee0587fe8a8d48a658e7e574ee48ac2c311b540c4b60a73d0a821dab887",
+      "rawFile": "raw/boundary.json.gz",
+      "rawSha256": "46b7b91f5c8f87ccb9b3e53eb392c5634c30060e3b225b93e203bcc90702fbdf",
+      "rawBytes": 407350,
+      "gzipSha256": "cbf1917cd0e1207ac39d87e77a9c3a170451ed285a68a677dcf4ed186fbacdc0",
+      "gzipBytes": 61123,
+      "counts": {
+        "source": 149
+      }
+    },
+    "BUILDING": {
+      "endpoint": "https://overpass-api.de/api/interpreter",
+      "fetchedAt": "2026-08-24T14:57:19.922Z",
+      "attempts": 1,
+      "osmBaseTimestamp": "2026-08-24T14:55:21Z",
+      "generator": "Overpass API 0.7.62.11 87bfad18",
+      "query": "[out:json][timeout:180][maxsize:67108864];\nrel(id:3891544,3959027,3966394,3966426,3969938,3970414,3972089,3972253)->.serviceDistricts;\n.serviceDistricts map_to_area -> .searchArea;\n(\n  way[\"building\"][\"height\"](area.searchArea);\n  way[\"building\"][\"building:levels\"](area.searchArea);\n);\nout meta geom;",
+      "querySha256": "55c32294b6f8f4f383b51697aa17e9bd24aa9ca9b931bd7cd4136a35d8bd0c5d",
+      "rawFile": "raw/building.json.gz",
+      "rawSha256": "d9b50a89f03c7b63c57f96262eda7d87287b6c4d9efde2777efde3bb9bc84f81",
+      "rawBytes": 7462685,
+      "gzipSha256": "f8a8723397097670b10be46549a1c9d94e7539cb7e56d537889f007c2f82ba3d",
+      "gzipBytes": 861348,
+      "counts": {
+        "source": 7824,
+        "accepted": 7817,
+        "excluded": 7,
+        "excludedByReason": {
+          "INVALID_HEIGHT_AND_LEVELS": 7
+        }
+      },
+      "manifestVersion": "osm-building-20260824T145521Z-d9b50a89f03c"
+    },
+    "REST_SPOT": {
+      "endpoint": "https://overpass-api.de/api/interpreter",
+      "fetchedAt": "2026-08-24T15:00:48.991Z",
+      "attempts": 1,
+      "osmBaseTimestamp": "2026-08-24T14:59:21Z",
+      "generator": "Overpass API 0.7.62.11 87bfad18",
+      "query": "[out:json][timeout:180][maxsize:67108864];\nrel(id:3891544,3959027,3966394,3966426,3969938,3970414,3972089,3972253)->.serviceDistricts;\n.serviceDistricts map_to_area -> .searchArea;\n(\n  node[\"amenity\"=\"bench\"](area.searchArea);\n  node[\"amenity\"=\"shelter\"](area.searchArea);\n);\nout meta;",
+      "querySha256": "93c0787e2668b73564fb447643091a358eef43a3b21a772ee8ad694a622d6d0e",
+      "rawFile": "raw/rest-spot.json.gz",
+      "rawSha256": "d3f781b9f1515683e32ef50adb80491136e40667ac7a40763e1943e5b4d4ae4f",
+      "rawBytes": 66221,
+      "gzipSha256": "c96b2e9725c2d7a80cbad8a92bc8104edbf2fb03f5ca95ff87543d729c2cd1cd",
+      "gzipBytes": 7000,
+      "counts": {
+        "source": 238,
+        "accepted": 230,
+        "excluded": 8,
+        "excludedByReason": {
+          "SHELTER_TYPE_NOT_ALLOWED": 8
+        }
+      },
+      "manifestVersion": "osm-rest-spot-20260824T145921Z-d3f781b9f151"
+    },
+    "BARRIER": {
+      "endpoint": "https://overpass-api.de/api/interpreter",
+      "fetchedAt": "2026-08-24T15:00:53.010Z",
+      "attempts": 1,
+      "osmBaseTimestamp": "2026-08-24T14:59:21Z",
+      "generator": "Overpass API 0.7.62.11 87bfad18",
+      "query": "[out:json][timeout:180][maxsize:67108864];\nrel(id:3891544,3959027,3966394,3966426,3969938,3970414,3972089,3972253)->.serviceDistricts;\n.serviceDistricts map_to_area -> .searchArea;\nway[\"highway\"=\"steps\"](area.searchArea);\nout meta geom;",
+      "querySha256": "e09edf7919e7bc776ad759c1403d42f007b4aa19b9acb1e3922bb6acfff7c185",
+      "rawFile": "raw/barrier.json.gz",
+      "rawSha256": "262474c8fcf97800222f0cf7934db9ad3ff0f114cf7472941f55c2ab9116b9a4",
+      "rawBytes": 155293,
+      "gzipSha256": "ff2689265f32ac1eab20a447a92fe08bfbc7123a61050c54e8979a7b1f34ae0d",
+      "gzipBytes": 22226,
+      "counts": {
+        "source": 269,
+        "accepted": 268,
+        "excluded": 1,
+        "excludedByReason": {
+          "OUTSIDE_SERVICE_COVERAGE": 1
+        }
+      },
+      "manifestVersion": "osm-barrier-20260824T145921Z-262474c8fcf9"
+    }
+  }
+}

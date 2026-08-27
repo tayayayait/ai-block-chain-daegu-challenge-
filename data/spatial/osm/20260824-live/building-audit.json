@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "auditedAt": "2026-08-24T14:58:56.490Z",
+  "dataset": "BUILDING",
+  "version": "osm-building-20260824T145521Z-d9b50a89f03c",
+  "featureCount": 7817,
+  "acceptedCount": 7817,
+  "duplicateRate": 0.0001279263144428809,
+  "issues": []
+}

@@ -1,0 +1,4303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6303095, 35.8785348],
+          [128.630071, 35.8786743],
+          [128.6300432, 35.8786905],
+          [128.629982, 35.8788578]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-32836049",
+        "observedAt": "2023-10-29T15:47:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5904648, 35.8510246],
+          [128.5904694, 35.8511357]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-92869143",
+        "observedAt": "2011-01-01T12:50:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5907421, 35.8510402],
+          [128.5907395, 35.851165]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-92869144",
+        "observedAt": "2011-01-01T12:50:20Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5904622, 35.8508708],
+          [128.5904607, 35.8507926]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-92869145",
+        "observedAt": "2026-01-25T06:43:04Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5907465, 35.8508571],
+          [128.5907459, 35.8507747]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-92869150",
+        "observedAt": "2026-01-25T06:43:04Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.7370527, 35.8624421],
+          [128.737244, 35.8625036]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-198877375",
+        "observedAt": "2017-01-24T04:45:32Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.7369529, 35.8621193],
+          [128.7371773, 35.8621989],
+          [128.7373609, 35.862264]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-198877378",
+        "observedAt": "2017-01-24T04:45:32Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.7368938, 35.8622406],
+          [128.7371156, 35.8623192],
+          [128.7373016, 35.8623851]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-198877382",
+        "observedAt": "2017-01-24T04:45:32Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5200407, 35.8014639],
+          [128.5200391, 35.8014195],
+          [128.5200604, 35.8013693],
+          [128.5200825, 35.8013209],
+          [128.5201446, 35.8012033]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-281998716",
+        "observedAt": "2016-06-28T13:03:05Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6285857, 35.848886],
+          [128.6285493, 35.8487306],
+          [128.6286132, 35.8485777],
+          [128.6287885, 35.8483563],
+          [128.6288721, 35.8482194],
+          [128.6289423, 35.8480994],
+          [128.629567, 35.8475131]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-303325232",
+        "observedAt": "2024-02-06T09:40:36Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6267434, 35.8395093],
+          [128.6266467, 35.83946],
+          [128.6265874, 35.8394486]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-303325238",
+        "observedAt": "2014-09-14T13:36:46Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6318978, 35.856569],
+          [128.6319463, 35.8565896],
+          [128.631958, 35.8566148],
+          [128.6319968, 35.8566305]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-303582388",
+        "observedAt": "2014-09-16T07:54:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6460181, 35.8467675],
+          [128.6460386, 35.8466391],
+          [128.6460292, 35.8465063],
+          [128.6461099, 35.8463561],
+          [128.646111, 35.8462597],
+          [128.6461392, 35.8461766]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-305367182",
+        "observedAt": "2024-02-06T00:11:48Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6540085, 35.8602325],
+          [128.654151, 35.8602939],
+          [128.6543747, 35.8603425],
+          [128.6547266, 35.8605276],
+          [128.6549015, 35.8605745]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-305397921",
+        "observedAt": "2024-02-06T06:43:21Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6455585, 35.8562356],
+          [128.6455417, 35.8562342],
+          [128.6454835, 35.8562218]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-306236846",
+        "observedAt": "2024-02-06T04:26:24Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6320101, 35.8660056],
+          [128.6326221, 35.8649573],
+          [128.6326646, 35.8648863]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-306246669",
+        "observedAt": "2015-09-04T17:24:11Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6528582, 35.8444581],
+          [128.6529697, 35.8446026],
+          [128.653006, 35.844688]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-306255452",
+        "observedAt": "2014-10-05T16:25:53Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6427911, 35.8509319],
+          [128.642786, 35.8508761],
+          [128.6427221, 35.8507167],
+          [128.6427177, 35.8505596],
+          [128.6427516, 35.8503753],
+          [128.6427382, 35.8503063],
+          [128.6426975, 35.8502352]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-306255453",
+        "observedAt": "2024-02-06T04:44:23Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6089011, 35.8622589],
+          [128.6087524, 35.8621845]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-306542068",
+        "observedAt": "2014-10-06T14:56:38Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6093621, 35.8614117],
+          [128.6094859, 35.8615585]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-306542079",
+        "observedAt": "2024-01-22T23:54:37Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6514385, 35.8531525],
+          [128.6510577, 35.853192]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-308715887",
+        "observedAt": "2019-11-05T01:53:41Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6508336, 35.8531837],
+          [128.6506311, 35.8533346]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-308715888",
+        "observedAt": "2014-10-20T11:11:45Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6573357, 35.8718049],
+          [128.6571758, 35.8718363]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-309728493",
+        "observedAt": "2014-10-26T13:58:54Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6575719, 35.872413],
+          [128.6574585, 35.8724373]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-309728494",
+        "observedAt": "2014-10-26T13:58:54Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6313645, 35.854981],
+          [128.6301404, 35.8549979]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-309900330",
+        "observedAt": "2014-10-27T11:40:46Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6327495, 35.8506162],
+          [128.6326372, 35.8507712],
+          [128.6325702, 35.8510293]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-309900332",
+        "observedAt": "2014-10-27T11:40:46Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6482255, 35.8842876],
+          [128.6480471, 35.8841058]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-350113918",
+        "observedAt": "2015-05-30T14:58:10Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6503116, 35.8853769],
+          [128.6502122, 35.8855202],
+          [128.6499763, 35.8856471],
+          [128.6500076, 35.8856843],
+          [128.6502811, 35.8855625],
+          [128.6503263, 35.8856149]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-350113923",
+        "observedAt": "2015-06-01T12:37:18Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5781269, 35.8242793],
+          [128.5777896, 35.8240778],
+          [128.5776678, 35.823977],
+          [128.5775273, 35.8238607],
+          [128.5774135, 35.8236882],
+          [128.5774358, 35.823532],
+          [128.5773918, 35.8234018],
+          [128.5773336, 35.8232581],
+          [128.5772795, 35.8231627],
+          [128.5771985, 35.8231036],
+          [128.5768951, 35.8230635],
+          [128.5767773, 35.8229745],
+          [128.5767082, 35.8227715],
+          [128.5766175, 35.8225085]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-371515473",
+        "observedAt": "2025-07-10T00:11:51Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5758947, 35.8236279],
+          [128.5758761, 35.8236701],
+          [128.5758115, 35.8237542]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-371515474",
+        "observedAt": "2023-07-11T09:53:59Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5805111, 35.8117003],
+          [128.5803836, 35.8118029],
+          [128.5802809, 35.8119536],
+          [128.5802567, 35.8120455]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-371515478",
+        "observedAt": "2015-09-19T19:15:46Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5793665, 35.8189737],
+          [128.579479, 35.819215],
+          [128.57958, 35.8195233],
+          [128.5795963, 35.8195988],
+          [128.5794563, 35.8196829],
+          [128.5793849, 35.8198206]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-371515480",
+        "observedAt": "2023-07-11T09:53:59Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5814157, 35.8116676],
+          [128.581478, 35.8117984],
+          [128.5816047, 35.8119184],
+          [128.5817429, 35.812029],
+          [128.5817594, 35.8122745],
+          [128.5817343, 35.8124235],
+          [128.5817462, 35.8124919],
+          [128.5817891, 35.8125348],
+          [128.5817435, 35.8126326]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-371516128",
+        "observedAt": "2015-09-19T19:20:41Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6944876, 35.9905534],
+          [128.6945094, 35.9906321],
+          [128.6945481, 35.9906787],
+          [128.6946379, 35.9907017]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-372542512",
+        "observedAt": "2024-09-28T04:09:09Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6949047, 36.0051269],
+          [128.6948328, 36.0052148]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-372556798",
+        "observedAt": "2015-09-27T08:09:35Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6938479, 36.0064587],
+          [128.693913, 36.0063195]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-372556800",
+        "observedAt": "2015-09-27T08:09:35Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6946023, 36.0109843],
+          [128.6946128, 36.0110277]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-372556801",
+        "observedAt": "2015-09-27T08:09:35Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6948151, 36.0053004],
+          [128.6947608, 36.00534]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-372556804",
+        "observedAt": "2015-09-27T08:09:35Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6945978, 36.0053503],
+          [128.6945254, 36.0054047]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-372556805",
+        "observedAt": "2015-09-27T08:09:35Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6949576, 36.0043997],
+          [128.6950501, 36.0043973],
+          [128.6950252, 36.0044306],
+          [128.6951015, 36.0044532],
+          [128.6951713, 36.0045033],
+          [128.6950971, 36.0045245],
+          [128.695128, 36.0045518],
+          [128.6950942, 36.0045696],
+          [128.695128, 36.0046326]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-372556810",
+        "observedAt": "2015-09-27T08:09:36Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6677286, 35.8711389],
+          [128.6676754, 35.8710786],
+          [128.6677155, 35.8710398],
+          [128.6678285, 35.8710123]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-372612274",
+        "observedAt": "2015-09-27T17:14:05Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6721272, 35.8698685],
+          [128.6723669, 35.8699511],
+          [128.6725835, 35.8699948]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-372671647",
+        "observedAt": "2015-09-28T07:19:40Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6523584, 35.8576347],
+          [128.6524019, 35.8576812]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-374725876",
+        "observedAt": "2015-10-10T17:03:15Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6432681, 35.8629194],
+          [128.6433121, 35.8628101]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-377813744",
+        "observedAt": "2015-11-01T03:53:24Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6839831, 35.8580888],
+          [128.6838575, 35.8579426]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-384680822",
+        "observedAt": "2015-12-06T15:03:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5482328, 35.8984053],
+          [128.5481537, 35.8984966]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-389180024",
+        "observedAt": "2016-01-02T11:43:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5480984, 35.8986071],
+          [128.5481537, 35.8984966]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-389180025",
+        "observedAt": "2016-01-02T11:43:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5485274, 35.8985254],
+          [128.5484384, 35.8986231]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-389180027",
+        "observedAt": "2016-01-02T11:43:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5483969, 35.898724],
+          [128.5484384, 35.8986231]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-389180028",
+        "observedAt": "2016-01-02T11:43:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5644006, 35.8833347],
+          [128.5638815, 35.883157]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-400855028",
+        "observedAt": "2016-02-29T20:19:49Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5644006, 35.8833347],
+          [128.5647697, 35.8834642]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-400855029",
+        "observedAt": "2016-02-29T20:19:49Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.564282, 35.883539],
+          [128.5646668, 35.8836654]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-400855031",
+        "observedAt": "2016-02-29T20:19:49Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.564282, 35.883539],
+          [128.5637591, 35.8833816]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-400855032",
+        "observedAt": "2016-02-29T20:19:49Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6746388, 35.8291949],
+          [128.6746403, 35.8291164]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-401128236",
+        "observedAt": "2016-03-02T02:28:11Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6384139, 35.85371],
+          [128.6383914, 35.8536097]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-405845250",
+        "observedAt": "2016-03-26T14:12:38Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6383914, 35.8536097],
+          [128.6383683, 35.8534882]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-405845251",
+        "observedAt": "2016-03-26T14:12:38Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5199257, 35.8020426],
+          [128.5197019, 35.8024888]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-427799835",
+        "observedAt": "2016-06-28T13:03:03Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6331259, 35.863572],
+          [128.6330949, 35.8635287],
+          [128.6331324, 35.8629896],
+          [128.6331394, 35.8629219]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-428900324",
+        "observedAt": "2016-07-03T13:07:26Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6643292, 35.8750552],
+          [128.6642579, 35.8749463]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-436057810",
+        "observedAt": "2016-08-07T06:34:18Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6625544, 35.8765496],
+          [128.6624038, 35.8764824]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-436057814",
+        "observedAt": "2016-08-07T06:34:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6617365, 35.8775806],
+          [128.6616129, 35.8775295]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-436057815",
+        "observedAt": "2016-08-07T06:34:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6633731, 35.8756911],
+          [128.6632654, 35.8755999]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-436058685",
+        "observedAt": "2016-08-07T06:44:17Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6730351, 35.8269667],
+          [128.6730561, 35.8269355],
+          [128.6729841, 35.8268936],
+          [128.6730873, 35.8267545],
+          [128.6730717, 35.8267438],
+          [128.6729385, 35.8268946],
+          [128.6729133, 35.8268771],
+          [128.6729625, 35.8268148],
+          [128.6729469, 35.8267973]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-437117461",
+        "observedAt": "2020-01-08T08:03:38Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4876506, 35.8580593],
+          [128.4873863, 35.8579094],
+          [128.4872293, 35.8577035],
+          [128.487043, 35.8575107],
+          [128.4869399, 35.8573643]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-452068939",
+        "observedAt": "2017-02-06T08:18:47Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6287189, 35.880243],
+          [128.6283668, 35.8801625]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-459131988",
+        "observedAt": "2016-12-12T08:19:57Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6117412, 35.8924062],
+          [128.6117403, 35.8923914],
+          [128.6117235, 35.8922834]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-469844625",
+        "observedAt": "2020-10-02T18:40:54Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6125281, 35.8912929],
+          [128.6125331, 35.8912574],
+          [128.6125365, 35.8912334]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-469844641",
+        "observedAt": "2020-10-18T15:16:45Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6125559, 35.8916623],
+          [128.6129239, 35.8916544]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-469844644",
+        "observedAt": "2018-05-10T06:41:09Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6409806, 35.9252895],
+          [128.641014, 35.9253678],
+          [128.6410606, 35.9254036]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472252627",
+        "observedAt": "2024-11-15T03:35:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6409619, 35.9254998],
+          [128.6410277, 35.9254341],
+          [128.6410606, 35.9254036]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472252628",
+        "observedAt": "2024-11-15T03:35:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6415618, 35.9253933],
+          [128.6416433, 35.9253297]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472252629",
+        "observedAt": "2024-11-15T03:35:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6416365, 35.9254492],
+          [128.6416949, 35.9255029]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472252631",
+        "observedAt": "2024-11-15T03:35:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6377012, 35.8799641],
+          [128.6375691, 35.8798172]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472471167",
+        "observedAt": "2017-02-06T07:06:40Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6387286, 35.8794603],
+          [128.6385927, 35.8793018]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472471168",
+        "observedAt": "2017-02-06T07:06:40Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6402353, 35.8795776],
+          [128.6403806, 35.879506]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472471169",
+        "observedAt": "2017-02-06T07:06:40Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4904034, 35.8549839],
+          [128.490448, 35.8549007],
+          [128.490448, 35.8547824]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472483573",
+        "observedAt": "2017-02-06T08:18:44Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4902674, 35.8557257],
+          [128.4900977, 35.8556086]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472483585",
+        "observedAt": "2017-02-06T08:18:45Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4897812, 35.8555473],
+          [128.489441, 35.8555487]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472483586",
+        "observedAt": "2017-02-06T08:18:45Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4893128, 35.8563225],
+          [128.4891716, 35.8562109],
+          [128.4891418, 35.8559914]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472988726",
+        "observedAt": "2017-02-07T11:45:59Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4879054, 35.8557548],
+          [128.4881258, 35.8557536],
+          [128.4884395, 35.8557518]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-472993091",
+        "observedAt": "2017-02-07T12:04:22Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6434592, 35.8626551],
+          [128.6436502, 35.8626811]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-477453936",
+        "observedAt": "2017-02-27T10:05:36Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6202684, 35.8776233],
+          [128.620292, 35.8775792],
+          [128.6201009, 35.8775216],
+          [128.6199116, 35.8774657],
+          [128.6198855, 35.8775228]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-511223584",
+        "observedAt": "2017-07-29T08:53:00Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6204812, 35.8771854],
+          [128.6204514, 35.877271],
+          [128.620231, 35.8772064],
+          [128.6200479, 35.8771479],
+          [128.6200804, 35.8770736]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-511223586",
+        "observedAt": "2017-07-29T08:53:00Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6147021, 35.875667],
+          [128.6148886, 35.8757147],
+          [128.6148579, 35.8757834]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-511223588",
+        "observedAt": "2017-07-29T08:53:00Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.614749, 35.8761721],
+          [128.6147792, 35.8761039],
+          [128.6147976, 35.8760639],
+          [128.6145436, 35.8759888]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-511223589",
+        "observedAt": "2025-03-26T00:24:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6114188, 35.8897831],
+          [128.6114051, 35.8897386]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-522495519",
+        "observedAt": "2020-10-02T19:22:26Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6111448, 35.8913824],
+          [128.6116496, 35.8913755]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524025614",
+        "observedAt": "2017-09-13T08:54:02Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6131284, 35.8862466],
+          [128.6129766, 35.8861094]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524026044",
+        "observedAt": "2018-04-29T13:36:47Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6143452, 35.8913569],
+          [128.6142216, 35.8914309],
+          [128.6141304, 35.8916026],
+          [128.6141942, 35.8916388],
+          [128.6141165, 35.8917804],
+          [128.6141062, 35.891809],
+          [128.6139755, 35.891757]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524166585",
+        "observedAt": "2017-09-13T06:30:31Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6146131, 35.8919606],
+          [128.6144318, 35.8918948],
+          [128.6141771, 35.8918024],
+          [128.6141165, 35.8917804]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524172307",
+        "observedAt": "2020-10-18T15:19:24Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6143386, 35.8924508],
+          [128.6141473, 35.8923798],
+          [128.6138006, 35.892251]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524172308",
+        "observedAt": "2020-10-18T15:19:24Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6151773, 35.8899778],
+          [128.6153527, 35.8899168]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524172310",
+        "observedAt": "2017-09-12T17:25:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6123818, 35.8884596],
+          [128.6125387, 35.8884853],
+          [128.6125553, 35.888488]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524335860",
+        "observedAt": "2020-10-02T18:32:44Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6120279, 35.8884866],
+          [128.6119675, 35.8884121],
+          [128.6119533, 35.8883945]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524335861",
+        "observedAt": "2020-10-02T18:32:44Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6062178, 35.8900092],
+          [128.606261, 35.8899985]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524335886",
+        "observedAt": "2018-04-04T14:03:24Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6086123, 35.8913564],
+          [128.6085334, 35.8911352]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524335890",
+        "observedAt": "2018-04-08T13:26:27Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6156322, 35.8864783],
+          [128.6153961, 35.8865134]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524335900",
+        "observedAt": "2018-05-22T15:30:38Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6107932, 35.8886056],
+          [128.6114543, 35.8885198],
+          [128.6114703, 35.8886139]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524548726",
+        "observedAt": "2017-09-23T09:40:32Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6103853, 35.8922183],
+          [128.6103523, 35.8922185],
+          [128.6103574, 35.8922839]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-524800913",
+        "observedAt": "2017-09-15T01:56:20Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6107352, 35.8913939],
+          [128.6107432, 35.891613]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-525000022",
+        "observedAt": "2017-09-15T18:23:24Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6124552, 35.8882501],
+          [128.6125833, 35.8881939],
+          [128.6126037, 35.888185]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-526419254",
+        "observedAt": "2020-10-02T18:32:44Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6104537, 35.8886074],
+          [128.610478, 35.8887312]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-527002424",
+        "observedAt": "2017-09-23T09:40:32Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6147989, 35.8906554],
+          [128.6148161, 35.8906786],
+          [128.6149184, 35.8908172],
+          [128.6148717, 35.8908343],
+          [128.6149925, 35.8910374]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-527036468",
+        "observedAt": "2020-10-18T15:19:24Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.614776, 35.8873005],
+          [128.6147858, 35.8873106],
+          [128.6149192, 35.8874488],
+          [128.6149075, 35.8875945],
+          [128.6148118, 35.8877515],
+          [128.6148771, 35.8878493]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-527036607",
+        "observedAt": "2020-10-02T18:23:38Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6076766, 35.8866197],
+          [128.6076712, 35.8864805]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-527037437",
+        "observedAt": "2017-09-23T13:13:25Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6120924, 35.894535],
+          [128.6121577, 35.8942388],
+          [128.6120327, 35.8941037],
+          [128.6118629, 35.8940115],
+          [128.6117328, 35.8938633],
+          [128.6117307, 35.8937771]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-527256336",
+        "observedAt": "2017-09-24T12:07:23Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6117267, 35.893422],
+          [128.6118279, 35.8934188]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-527256339",
+        "observedAt": "2017-09-24T12:07:23Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5131002, 35.9018438],
+          [128.5130787, 35.9017493]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-533282925",
+        "observedAt": "2017-10-18T23:39:44Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5133013, 35.9014169],
+          [128.5134529, 35.90141]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-533483438",
+        "observedAt": "2017-10-18T23:39:43Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5130653, 35.9014755],
+          [128.5129124, 35.9014723]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-533483440",
+        "observedAt": "2017-10-18T23:39:43Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5135358, 35.8970656],
+          [128.5137055, 35.89705]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-533490466",
+        "observedAt": "2022-03-11T13:57:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5142357, 35.8971062],
+          [128.5143711, 35.8971201]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-533490468",
+        "observedAt": "2017-10-19T00:52:07Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5136892, 35.8968318],
+          [128.5135378, 35.8968351]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-533490470",
+        "observedAt": "2017-10-19T00:52:07Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5222654, 35.9124959],
+          [128.5222955, 35.9123301]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-534449835",
+        "observedAt": "2017-10-23T07:43:54Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5231596, 35.9125199],
+          [128.5231651, 35.912483],
+          [128.5231747, 35.9124181],
+          [128.5231845, 35.9123514],
+          [128.5231932, 35.9122927],
+          [128.5232023, 35.9122311],
+          [128.5232051, 35.9122125]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-534449837",
+        "observedAt": "2017-10-23T07:43:54Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5902816, 35.8571835],
+          [128.5905174, 35.8572403]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-553720558",
+        "observedAt": "2018-01-17T10:30:18Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6084557, 35.8893467],
+          [128.6084824, 35.889212]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-576243985",
+        "observedAt": "2018-04-08T13:26:27Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6047667, 35.8888521],
+          [128.6048156, 35.8887241],
+          [128.6048193, 35.8887144]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-576254847",
+        "observedAt": "2020-10-02T18:11:41Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6125442, 35.894433],
+          [128.6126368, 35.8944958],
+          [128.6126495, 35.8945044]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-576254853",
+        "observedAt": "2020-10-02T18:40:54Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6054697, 35.890297],
+          [128.6053835, 35.8903551]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-576254870",
+        "observedAt": "2018-04-04T09:42:23Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6099314, 35.89139],
+          [128.6098, 35.8914155]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-576358714",
+        "observedAt": "2021-07-30T04:52:05Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6129609, 35.890471],
+          [128.6130031, 35.8904623],
+          [128.6131881, 35.8903983]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-576358720",
+        "observedAt": "2020-10-18T15:13:23Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6032035, 35.889635],
+          [128.6033097, 35.889555],
+          [128.6033607, 35.8895205],
+          [128.6033872, 35.889538],
+          [128.6033995, 35.8895311],
+          [128.6033736, 35.8895101],
+          [128.6033977, 35.8894895]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-576358738",
+        "observedAt": "2018-05-22T15:30:36Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6086801, 35.8866448],
+          [128.6085693, 35.8867387]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577693569",
+        "observedAt": "2018-04-08T09:43:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6087353, 35.8932264],
+          [128.608845, 35.8932251],
+          [128.6088737, 35.8932248]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577693576",
+        "observedAt": "2020-10-18T15:08:34Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6089922, 35.8927811],
+          [128.6089728, 35.8927877],
+          [128.6088682, 35.892823]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577693577",
+        "observedAt": "2020-10-02T18:37:22Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6077, 35.8908919],
+          [128.6074649, 35.8908277]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577693596",
+        "observedAt": "2018-04-08T09:43:41Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6015128, 35.8882426],
+          [128.6015565, 35.8881155],
+          [128.6016992, 35.8880535],
+          [128.6017574, 35.8881459]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577703640",
+        "observedAt": "2018-05-17T13:53:37Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6113855, 35.8893123],
+          [128.611375, 35.8892024]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577759108",
+        "observedAt": "2018-04-08T13:26:24Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6079133, 35.8915151],
+          [128.6078637, 35.8915778]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577759115",
+        "observedAt": "2018-04-08T13:26:25Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6077551, 35.8912404],
+          [128.6077449, 35.8912071],
+          [128.6077785, 35.8912007],
+          [128.6077704, 35.8911779],
+          [128.6077382, 35.8911843],
+          [128.6077288, 35.8911614]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577759117",
+        "observedAt": "2018-04-08T13:26:25Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6086329, 35.888697],
+          [128.6086469, 35.8886437],
+          [128.6086615, 35.8885883]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577759120",
+        "observedAt": "2021-07-30T05:03:56Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6074363, 35.8891498],
+          [128.6074618, 35.8890416]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577759122",
+        "observedAt": "2018-04-08T13:40:22Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6076131, 35.8884885],
+          [128.6076208, 35.8884591],
+          [128.6076412, 35.8883877]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577759123",
+        "observedAt": "2021-07-30T04:52:05Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6071098, 35.8887905],
+          [128.6072142, 35.8888104],
+          [128.6073447, 35.8888352]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577759124",
+        "observedAt": "2020-09-13T14:59:43Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.608543, 35.8873905],
+          [128.6085294, 35.8871371],
+          [128.6085281, 35.887113]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-577760786",
+        "observedAt": "2020-09-13T15:02:35Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6111854, 35.8931163],
+          [128.61119, 35.8931047],
+          [128.611291, 35.8928515]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-578054683",
+        "observedAt": "2020-10-02T18:44:38Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6080552, 35.8892727],
+          [128.6080889, 35.8891514]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-578054688",
+        "observedAt": "2018-04-09T10:24:00Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6099951, 35.8928899],
+          [128.6101739, 35.8927691],
+          [128.6101836, 35.8927627]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-578054690",
+        "observedAt": "2020-10-02T18:44:38Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6111449, 35.8866885],
+          [128.6112298, 35.886691]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-578054693",
+        "observedAt": "2018-04-09T10:24:01Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6049298, 35.8904887],
+          [128.6049728, 35.8904495]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-578054698",
+        "observedAt": "2018-04-09T10:24:01Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6124586, 35.8922635],
+          [128.6124682, 35.8923672]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-578054704",
+        "observedAt": "2018-04-09T10:24:02Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6047969, 35.8887074],
+          [128.6048032, 35.8886951],
+          [128.6048609, 35.8885817]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-579609541",
+        "observedAt": "2020-10-02T18:11:41Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6097856, 35.8935761],
+          [128.6097856, 35.8935159]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-579610102",
+        "observedAt": "2018-04-13T15:52:17Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6038046, 35.8893966],
+          [128.6038101, 35.889477]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-579770238",
+        "observedAt": "2018-04-14T05:11:12Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.611853, 35.8910113],
+          [128.6122544, 35.8907789]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-587101553",
+        "observedAt": "2018-05-10T06:41:05Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6134085, 35.889798],
+          [128.6134554, 35.8899441]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-587101555",
+        "observedAt": "2018-05-10T06:41:05Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6092004, 35.8927117],
+          [128.6092758, 35.8926611]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-587101570",
+        "observedAt": "2018-05-10T06:41:07Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5990848, 35.8898656],
+          [128.5991087, 35.8898585],
+          [128.5990949, 35.8897971],
+          [128.5991749, 35.8897848],
+          [128.5991749, 35.8897669],
+          [128.5990922, 35.8897781]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-589001886",
+        "observedAt": "2018-05-17T13:53:37Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6101746, 35.8893803],
+          [128.6102315, 35.8895909]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-591623209",
+        "observedAt": "2018-05-28T14:53:47Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6122654, 35.892975],
+          [128.6122607, 35.8927986]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-595159249",
+        "observedAt": "2018-06-07T15:35:52Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6125155, 35.8929645],
+          [128.6125106, 35.8927967]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-595159250",
+        "observedAt": "2018-06-07T15:35:52Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6417263, 35.9201851],
+          [128.6417281, 35.9201549]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-668897778",
+        "observedAt": "2019-02-16T03:11:57Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5656515, 35.8522259],
+          [128.5661693, 35.8524779],
+          [128.566143, 35.8526888],
+          [128.5661961, 35.8528064],
+          [128.5663016, 35.8528116]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-748913238",
+        "observedAt": "2019-11-23T07:08:10Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.606647, 35.9027781],
+          [128.6067108, 35.9025597]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-780094158",
+        "observedAt": "2020-03-11T05:34:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5584608, 35.8562176],
+          [128.5584018, 35.8562826]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-807005956",
+        "observedAt": "2020-06-09T22:53:43Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5586667, 35.8564364],
+          [128.5587311, 35.8563726]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-807005957",
+        "observedAt": "2020-06-09T22:53:43Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6984181, 35.9961912],
+          [128.6983605, 35.9961597],
+          [128.698339, 35.9960979],
+          [128.6983311, 35.9960359],
+          [128.6981848, 35.9958331],
+          [128.6979355, 35.995681],
+          [128.6977731, 35.9955781]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-807215380",
+        "observedAt": "2023-08-22T11:38:31Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6798827, 35.9927494],
+          [128.6800195, 35.9922915]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-807742574",
+        "observedAt": "2020-05-24T11:19:41Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6915933, 35.9910106],
+          [128.6915, 35.991061]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-807743961",
+        "observedAt": "2020-05-24T11:30:42Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.63028, 35.9057113],
+          [128.6304754, 35.9055965],
+          [128.6305195, 35.9055707]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-812755448",
+        "observedAt": "2021-12-07T14:41:00Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5364488, 35.801293],
+          [128.5363835, 35.8012856]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-820103977",
+        "observedAt": "2020-06-27T06:04:18Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6328498, 35.929872],
+          [128.6329916, 35.9298673],
+          [128.632998, 35.9300294],
+          [128.6330159, 35.9304804]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-821802116",
+        "observedAt": "2022-09-07T14:02:17Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6261933, 35.8784764],
+          [128.6278601, 35.8788608]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-822417472",
+        "observedAt": "2020-07-03T06:21:20Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6274184, 35.8802675],
+          [128.6275772, 35.8798948]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-822417473",
+        "observedAt": "2020-07-03T06:21:20Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6231106, 35.8902877],
+          [128.6234301, 35.890264]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-842149089",
+        "observedAt": "2020-08-29T13:38:53Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6236485, 35.8898391],
+          [128.6236391, 35.8897464],
+          [128.6236181, 35.8896159],
+          [128.6235812, 35.8894828]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-842149090",
+        "observedAt": "2020-08-29T13:38:53Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6846079, 35.8327657],
+          [128.6846341, 35.8329773]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-844675389",
+        "observedAt": "2020-09-06T02:22:27Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6853866, 35.8315733],
+          [128.6858686, 35.8315813]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-844675390",
+        "observedAt": "2020-09-06T02:22:27Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6854214, 35.8305739],
+          [128.68591, 35.8305896]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-844675391",
+        "observedAt": "2020-09-06T02:22:27Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6854319, 35.8302054],
+          [128.6859253, 35.8302237]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-844675392",
+        "observedAt": "2020-09-06T02:22:27Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6837503, 35.8303806],
+          [128.6833953, 35.8303909]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-844675393",
+        "observedAt": "2020-09-06T02:22:27Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6329916, 35.9298673],
+          [128.633042, 35.9298677],
+          [128.6330544, 35.9304793]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-864644403",
+        "observedAt": "2022-09-07T14:02:17Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5579586, 35.8433012],
+          [128.5576968, 35.84346],
+          [128.5575478, 35.8434945],
+          [128.5574158, 35.8436947]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-879483336",
+        "observedAt": "2020-12-01T00:15:03Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4771859, 35.8112064],
+          [128.4773104, 35.8111268]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-887845077",
+        "observedAt": "2020-12-23T12:38:10Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5868392, 35.8677751],
+          [128.5867492, 35.8676464],
+          [128.5864871, 35.8675431]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-902162854",
+        "observedAt": "2023-06-28T16:12:57Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6382032, 35.8205459],
+          [128.6382542, 35.8205635]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-932677920",
+        "observedAt": "2021-04-20T01:49:26Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6466656, 35.8181291],
+          [128.6468585, 35.8181621]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-935178797",
+        "observedAt": "2021-04-26T00:34:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6468585, 35.8181621],
+          [128.6467647, 35.8182884]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-935178798",
+        "observedAt": "2021-04-26T00:34:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6465789, 35.8184606],
+          [128.6467612, 35.8184979]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-935178799",
+        "observedAt": "2021-04-26T00:34:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6467612, 35.8184979],
+          [128.6467647, 35.8182884]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-935178800",
+        "observedAt": "2021-04-26T00:34:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6467647, 35.8182884],
+          [128.6466771, 35.8182811]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-935178801",
+        "observedAt": "2021-04-26T00:34:19Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6418442, 35.923255],
+          [128.6418455, 35.9232954]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-985364511",
+        "observedAt": "2021-09-21T00:29:07Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6377095, 35.9102223],
+          [128.6376976, 35.9101385]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-990440938",
+        "observedAt": "2021-10-06T12:42:59Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6314269, 35.9066424],
+          [128.6313954, 35.906667],
+          [128.6312699, 35.906765]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-990441070",
+        "observedAt": "2021-12-07T14:41:00Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4900406, 35.8199143],
+          [128.4902346, 35.8200225]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1083164098",
+        "observedAt": "2022-08-02T10:34:00Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4897617, 35.8236032],
+          [128.4895202, 35.8236657]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1083164099",
+        "observedAt": "2022-08-02T10:34:00Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6338925, 35.9326974],
+          [128.6338607, 35.9327039],
+          [128.6339121, 35.9328287]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1092636978",
+        "observedAt": "2022-09-07T14:02:17Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6064818, 35.8908962],
+          [128.6065037, 35.8908337]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1104590469",
+        "observedAt": "2022-10-17T06:59:35Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5263201, 35.6990906],
+          [128.5265816, 35.6990514],
+          [128.5268511, 35.6990905],
+          [128.5271738, 35.6990451],
+          [128.5273034, 35.6991165],
+          [128.5278467, 35.6990806],
+          [128.5279039, 35.6990702],
+          [128.5279758, 35.6990862],
+          [128.5280925, 35.6991025],
+          [128.5282818, 35.6990885],
+          [128.5286045, 35.699172],
+          [128.5286719, 35.699206],
+          [128.5288226, 35.6992443],
+          [128.528975, 35.6992902],
+          [128.529325, 35.6993258]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1105077011",
+        "observedAt": "2024-01-11T00:04:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6063107, 35.8906503],
+          [128.6062438, 35.8906386]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1141504857",
+        "observedAt": "2023-02-09T17:02:29Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6059507, 35.8897439],
+          [128.6059543, 35.8897163]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1147342802",
+        "observedAt": "2023-02-18T12:33:04Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6064189, 35.8896504],
+          [128.606409, 35.8896723],
+          [128.6063992, 35.8896942]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1147342804",
+        "observedAt": "2023-02-18T12:33:04Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6068807, 35.8898116],
+          [128.6069159, 35.8898146]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1147342806",
+        "observedAt": "2023-02-18T12:33:04Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6072045, 35.8906255],
+          [128.6072089, 35.8906016]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1147342807",
+        "observedAt": "2023-02-18T12:33:04Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6079302, 35.8904439],
+          [128.6078953, 35.8904419]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1147342808",
+        "observedAt": "2023-02-18T12:33:04Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6083612, 35.8905193],
+          [128.6084052, 35.8905109]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1147342810",
+        "observedAt": "2023-02-18T12:33:04Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4871316, 35.8548937],
+          [128.4871284, 35.8552815]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1150892812",
+        "observedAt": "2023-03-03T08:28:18Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4901347, 35.8763644],
+          [128.4901952, 35.8762945]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1167380798",
+        "observedAt": "2023-04-29T16:28:30Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.557337, 35.895857],
+          [128.5575923, 35.8959108]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1167380805",
+        "observedAt": "2023-10-03T15:25:55Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5565599, 35.897198],
+          [128.5565127, 35.8972442],
+          [128.5564577, 35.8973535]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1167380807",
+        "observedAt": "2023-10-03T15:25:55Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5762777, 35.8745465],
+          [128.5763433, 35.8745139],
+          [128.5763212, 35.8744796],
+          [128.576334, 35.8744563],
+          [128.5763562, 35.8744565],
+          [128.5763992, 35.8744767],
+          [128.5764366, 35.8745068],
+          [128.5764715, 35.8745047],
+          [128.5764853, 35.8744742],
+          [128.5764493, 35.8744407],
+          [128.5764187, 35.8744082],
+          [128.5764183, 35.8743822],
+          [128.5764448, 35.8743682],
+          [128.5764937, 35.8744047],
+          [128.5765457, 35.8743648]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1184422433",
+        "observedAt": "2023-06-23T09:26:26Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5862324, 35.8675206],
+          [128.5862199, 35.8677434],
+          [128.5861372, 35.8677462]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1185547671",
+        "observedAt": "2023-06-28T16:12:57Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4800368, 35.7790807],
+          [128.4800488, 35.7790285],
+          [128.4801213, 35.778824]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1194000110",
+        "observedAt": "2023-08-02T12:23:45Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6986046, 35.9962444],
+          [128.6986206, 35.9962835],
+          [128.6986185, 35.9963417]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1201059670",
+        "observedAt": "2023-08-22T11:38:28Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6986185, 35.9963417],
+          [128.6985797, 35.9964525],
+          [128.6984852, 35.9966209],
+          [128.6984208, 35.9967272],
+          [128.6983752, 35.9968314],
+          [128.6983484, 35.996916]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1201059672",
+        "observedAt": "2023-08-22T11:38:28Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6986046, 35.9962444],
+          [128.6985482, 35.9962172],
+          [128.6984999, 35.9962281],
+          [128.6984181, 35.9961912]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1201059677",
+        "observedAt": "2023-08-22T11:38:28Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4642366, 35.8656085],
+          [128.464187, 35.865425]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1212944010",
+        "observedAt": "2023-10-04T05:57:47Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4645162, 35.8653504],
+          [128.4645693, 35.8655397]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1212944011",
+        "observedAt": "2023-10-04T05:57:47Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5429681, 35.9277095],
+          [128.5429506, 35.9278617]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1217454471",
+        "observedAt": "2023-10-22T02:40:54Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6250193, 35.8828225],
+          [128.6250998, 35.8828712]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1218810112",
+        "observedAt": "2023-10-27T15:44:32Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4487873, 35.7697462],
+          [128.4487541, 35.769725],
+          [128.4487139, 35.7697044],
+          [128.4486589, 35.7697131],
+          [128.4486046, 35.7697316],
+          [128.4485476, 35.7697631],
+          [128.4485087, 35.7697876],
+          [128.4484839, 35.7697898],
+          [128.4484403, 35.7697892],
+          [128.4484, 35.7697577],
+          [128.4483719, 35.7697528],
+          [128.4482988, 35.7697691],
+          [128.4482612, 35.7697724],
+          [128.448211, 35.7697599],
+          [128.4481701, 35.7697354],
+          [128.4481265, 35.7696967],
+          [128.4480775, 35.7696695]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1225556882",
+        "observedAt": "2023-11-21T01:32:31Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5254948, 35.6972592],
+          [128.5254477, 35.697223],
+          [128.5254197, 35.6972113],
+          [128.5254366, 35.6971502],
+          [128.5253727, 35.6971547],
+          [128.5253929, 35.6971116],
+          [128.5253084, 35.6971304],
+          [128.525251, 35.6970493],
+          [128.5252005, 35.6970411]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1238718988",
+        "observedAt": "2024-01-11T00:04:06Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5262768, 35.6975447],
+          [128.5261895, 35.6975217],
+          [128.526154, 35.6974936],
+          [128.5260436, 35.6975257],
+          [128.5258555, 35.697532],
+          [128.5257516, 35.697508],
+          [128.5256708, 35.6974664]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1238718989",
+        "observedAt": "2024-01-11T00:04:06Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5269056, 35.6971421],
+          [128.5268329, 35.6971631],
+          [128.5267067, 35.6972717],
+          [128.5266108, 35.6972941],
+          [128.526518, 35.6974253],
+          [128.5263804, 35.6975519]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1238718991",
+        "observedAt": "2024-01-11T00:04:06Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6042373, 35.8337751],
+          [128.604471, 35.8338549]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1239520892",
+        "observedAt": "2024-01-14T00:50:50Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.676994, 35.9025693],
+          [128.6768841, 35.9025813],
+          [128.6766359, 35.9026269]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1245155529",
+        "observedAt": "2024-02-01T04:19:13Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6403199, 35.8512696],
+          [128.6407549, 35.8512827],
+          [128.6408528, 35.8512943],
+          [128.640951, 35.8512948],
+          [128.6410403, 35.8512895]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1246762633",
+        "observedAt": "2024-02-06T04:44:23Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6569588, 35.8512092],
+          [128.6561969, 35.8510285]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1272554146",
+        "observedAt": "2024-04-14T16:14:56Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6583291, 35.8525697],
+          [128.6582597, 35.8525269]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1272641827",
+        "observedAt": "2024-04-15T02:59:29Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.650358, 35.8555201],
+          [128.6503383, 35.8554919]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1272713765",
+        "observedAt": "2024-04-15T10:33:22Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6505179, 35.8545912],
+          [128.6505935, 35.8545511]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1281014627",
+        "observedAt": "2024-05-09T02:04:21Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6055939, 35.8866045],
+          [128.6056238, 35.8866309],
+          [128.6056445, 35.8867197]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1299797924",
+        "observedAt": "2024-07-07T13:27:21Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5691468, 35.95781],
+          [128.5690236, 35.9578453],
+          [128.5689381, 35.9578668]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1299837621",
+        "observedAt": "2024-07-07T17:32:16Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5695504, 35.9567166],
+          [128.5695504, 35.9565975]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1299837622",
+        "observedAt": "2024-07-07T17:32:16Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6241842, 35.8420117],
+          [128.6241937, 35.8420985]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1331532559",
+        "observedAt": "2024-11-07T05:55:49Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6238182, 35.8376987],
+          [128.6238306, 35.8377909]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1331532560",
+        "observedAt": "2024-11-07T05:55:49Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6244069, 35.8440014],
+          [128.6244053, 35.8438833]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1331532569",
+        "observedAt": "2024-11-07T05:55:49Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6416433, 35.9253297],
+          [128.6416512, 35.9253217],
+          [128.6417034, 35.9252773]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1334085557",
+        "observedAt": "2024-11-15T03:35:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6415361, 35.925405],
+          [128.6415618, 35.9253933]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1334085558",
+        "observedAt": "2024-11-15T03:35:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6415691, 35.9254142],
+          [128.6416365, 35.9254492]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1334085559",
+        "observedAt": "2024-11-15T03:35:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6415361, 35.925405],
+          [128.6415691, 35.9254142]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1334085560",
+        "observedAt": "2024-11-15T03:35:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6327641, 35.9256177],
+          [128.6329631, 35.9256184]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1354871788",
+        "observedAt": "2025-01-28T07:52:12Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6190274, 35.8846246],
+          [128.6190264, 35.8846599],
+          [128.619025, 35.8847097],
+          [128.6190244, 35.8847323]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1361902807",
+        "observedAt": "2025-02-22T08:08:06Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6143255, 35.8780162],
+          [128.6144535, 35.8779179],
+          [128.6144712, 35.877933],
+          [128.6143891, 35.8779964]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1371954977",
+        "observedAt": "2025-03-27T04:24:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4925496, 35.8029188],
+          [128.4924787, 35.8028471]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1386641253",
+        "observedAt": "2025-05-14T16:15:20Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.4929892, 35.8033736],
+          [128.4929198, 35.8033009]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1386641254",
+        "observedAt": "2025-05-14T16:15:20Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6062274, 35.8551463],
+          [128.606476, 35.8551326]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1416959857",
+        "observedAt": "2025-07-24T12:43:37Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6056873, 35.8549115],
+          [128.605897, 35.8549093]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1416959860",
+        "observedAt": "2025-07-24T12:43:37Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6062087, 35.8549],
+          [128.6064198, 35.8548808]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1416959863",
+        "observedAt": "2025-07-24T12:43:37Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6058399, 35.8551371],
+          [128.6057165, 35.8551385]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1416959865",
+        "observedAt": "2025-07-24T12:43:37Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6862315, 35.9617525],
+          [128.6861792, 35.9617134],
+          [128.6861256, 35.9616868],
+          [128.6860569, 35.9616712]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420847800",
+        "observedAt": "2025-08-08T00:33:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6857487, 35.9689566],
+          [128.6856712, 35.9690051],
+          [128.6856172, 35.9690768],
+          [128.6856039, 35.9691118]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420847803",
+        "observedAt": "2025-08-08T00:33:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6868508, 35.9735245],
+          [128.6869061, 35.9735922]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420847805",
+        "observedAt": "2025-08-08T00:33:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.7014034, 35.9623355],
+          [128.701331, 35.9622681]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420847816",
+        "observedAt": "2025-08-08T00:33:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.7127371, 35.9660612],
+          [128.712719, 35.9660938],
+          [128.7127418, 35.9661361]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420847818",
+        "observedAt": "2025-08-08T00:33:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.7125453, 35.9664124],
+          [128.7125064, 35.9664265],
+          [128.7124736, 35.9664449]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420847820",
+        "observedAt": "2025-08-08T00:33:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.642429, 35.973697],
+          [128.6423814, 35.9736693],
+          [128.6423298, 35.973621]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420847825",
+        "observedAt": "2025-08-08T00:33:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6394055, 35.9747465],
+          [128.639262, 35.9746542]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420847828",
+        "observedAt": "2025-08-08T00:33:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6386974, 35.9748826],
+          [128.6385955, 35.9749739]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420847830",
+        "observedAt": "2025-08-08T00:33:39Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.687479, 35.9581175],
+          [128.6874126, 35.9581343]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863203",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6873855, 35.9581417],
+          [128.6873415, 35.9581655],
+          [128.6873047, 35.9582242],
+          [128.6872954, 35.9582495]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863204",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.687297, 35.9613269],
+          [128.687354, 35.9613346],
+          [128.6873856, 35.9613649]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863207",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6857346, 35.9626873],
+          [128.6857159, 35.9627441]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863210",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6857514, 35.9627989],
+          [128.6857682, 35.9628271],
+          [128.6857751, 35.9628686],
+          [128.6857521, 35.962889]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863211",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6851946, 35.9695467],
+          [128.6852335, 35.9695922],
+          [128.6852843, 35.9696422],
+          [128.6852953, 35.9696597],
+          [128.6853149, 35.9696838]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863213",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6868604, 35.9725471],
+          [128.6868985, 35.9726159],
+          [128.6868652, 35.9726867],
+          [128.6868403, 35.9727495],
+          [128.6868107, 35.9728582]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863216",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6868158, 35.9729742],
+          [128.686808, 35.973074]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863218",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6867894, 35.9731782],
+          [128.6867733, 35.9732145],
+          [128.6867626, 35.9732552]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863220",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6652064, 35.9732932],
+          [128.6652392, 35.9733317],
+          [128.6653967, 35.9734146]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863225",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6660318, 35.9736915],
+          [128.6660667, 35.9737127],
+          [128.6660802, 35.9737549]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1420863226",
+        "observedAt": "2025-08-08T03:49:08Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.6189015, 35.9448492],
+          [128.6188865, 35.944697]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1441865795",
+        "observedAt": "2025-10-13T11:45:18Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.554687, 35.9344913],
+          [128.5550478, 35.9344743]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1445887158",
+        "observedAt": "2025-10-29T00:53:11Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5893187, 35.853303],
+          [128.5893678, 35.853339]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1479133844",
+        "observedAt": "2026-02-16T07:55:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.588981, 35.8532981],
+          [128.5891334, 35.8532992]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1479133845",
+        "observedAt": "2026-02-16T07:55:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5540756, 35.9432326],
+          [128.5540158, 35.9432056],
+          [128.554056, 35.9431437],
+          [128.5540239, 35.9431263]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1511797716",
+        "observedAt": "2026-05-11T03:36:46Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5961129, 35.8823747],
+          [128.5961072, 35.882401]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1525013902",
+        "observedAt": "2026-07-14T04:39:58Z",
+        "barrierType": "STAIRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [128.5962288, 35.8824028],
+          [128.5961969, 35.8824293]
+        ]
+      },
+      "properties": {
+        "sourceFeatureId": "osm-way-1525013903",
+        "observedAt": "2026-07-14T04:39:58Z",
+        "barrierType": "STAIRS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  application:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.14
+      - run: bun install --frozen-lockfile
+      - run: bun run lint
+      - run: bun run typecheck
+      - run: bun run test
+      - run: bun run security:scan
+      - run: bun run build
+      - run: node scripts/verify-vercel-build.mjs
+      - run: bun run security:scan
+      - run: bunx playwright install --with-deps chromium
+      - run: bun run test:e2e
+
+  database:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.14
+      - run: bun install --frozen-lockfile
+      - run: bun run supabase:start
+      - name: Guarded local reset and Demo fixture
+        run: bun run supabase:reset
+      - run: bun run supabase:test
+      - run: bun run supabase:schema-check
+      - run: bun run supabase:types
+      - name: Require committed generated database types
+        run: test -z "$(git status --porcelain --untracked-files=all -- src/lib/supabase/database.types.ts)"
+      - if: always()
+        run: bunx supabase stop --no-backup
