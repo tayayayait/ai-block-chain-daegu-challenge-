@@ -1,16 +1,2 @@
-{
-  "crons": [
-    {
-      "path": "/api/cron/risk",
-      "schedule": "*/30 * * * *"
-    },
-    {
-      "path": "/api/cron/attestations",
-      "schedule": "* * * * *"
-    },
-    {
-      "path": "/api/cron/retention",
-      "schedule": "0 * * * *"
-    }
-  ]
-}
+{}
+
