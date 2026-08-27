@@ -1,5 +1,8 @@
 # 온중(溫證)
 
+> 🚀 **실시간 웹 데모 (Vercel):** [https://ai-block-chain-daegu.vercel.app/](https://ai-block-chain-daegu.vercel.app/)  
+> 💻 **GitHub 저장소:** [https://github.com/tayayayait/ai-block-chain-daegu-challenge-](https://github.com/tayayayait/ai-block-chain-daegu-challenge-)
+
 대구 폭염 취약 어르신의 개인별 위험도를 계산하고 복약·쉼터·돌봄 기록을 연결하는
 AI·블록체인 시연 서비스입니다. Supabase/PostGIS에 운영 데이터를 저장하고 검증 가능한
 이벤트는 Base Sepolia 테스트넷 EAS에 기록합니다.
