@@ -46,5 +46,5 @@ def make_zip(source_dir, output_zip):
 
 if __name__ == '__main__':
     source_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-    output_zip = os.path.join(source_dir, '2026_대구_AI_블록체인_챌린지_프로토타입_온중.zip')
+    output_zip = os.path.join(source_dir, '2026_AI_Blockchain_Challenge_OnJung_Prototype.zip')
     make_zip(source_dir, output_zip)
